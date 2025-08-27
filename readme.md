@@ -15,6 +15,20 @@ To keep the community up-to-date with the latest developments, this repository i
 
 Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
 
+> Our paper has been released on arXiv: [Model Context Protocols in Adaptive Transport Systems: A Survey](https://arxiv.org/abs/2508.19239). Please cite it if you find it useful.
+
+```bibtex
+@misc{chhetri2025modelcontextprotocolsadaptive,
+      title={Model Context Protocols in Adaptive Transport Systems: A Survey}, 
+      author={Gaurab Chhetri and Shriyank Somvanshi and Md Monzurul Islam and Shamyo Brotee and Mahmuda Sultana Mimi and Dipti Koirala and Biplov Pandey and Subasish Das},
+      year={2025},
+      eprint={2508.19239},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.19239}, 
+}
+```
+
 ## Last Updated
 August 27, 2025 at 01:53:36 AM UTC
 
