@@ -30,12 +30,12 @@ Whether you are building AI agents, researching model-tool alignment, or experim
 ```
 
 ## Last Updated
-August 28, 2025 at 01:52:50 AM UTC
+August 29, 2025 at 01:52:45 AM UTC
 
 
 ## Theorem
 
-## Papers (19)
+## Papers (20)
 - [Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](https://arxiv.org/abs/2506.10925)
 - [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)
 - [ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)
@@ -55,6 +55,7 @@ August 28, 2025 at 01:52:50 AM UTC
 - [Help or Hurdle? Rethinking Model Context Protocol-Augmented Large Language Models](https://arxiv.org/abs/2508.12566)
 - [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem](https://arxiv.org/abs/2506.02040)
 - [AniME: Adaptive Multi-Agent Planning for Long Animation Generation](https://arxiv.org/abs/2508.18781)
+- [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/abs/2508.20453)
 
 
 ## Library
