@@ -30,7 +30,7 @@ Whether you are building AI agents, researching model-tool alignment, or experim
 ```
 
 ## Last Updated
-September 2, 2025 at 01:54:44 AM UTC
+September 3, 2025 at 01:46:51 AM UTC
 
 
 ## Theorem
