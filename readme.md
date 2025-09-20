@@ -13,21 +13,21 @@ The MCP framework facilitates fine-grained orchestration of model behavior throu
 
 To keep the community up-to-date with the latest developments, this repository is continuously enriched with newly published MCP-related papers, real-world use cases, and open-source implementations. From LangGraph-based architectures to custom tool routers and model-control interfaces, the collection aims to highlight both foundational ideas and emerging best practices.
 
-Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
-
-> Our paper has been released on arXiv: [Model Context Protocols in Adaptive Transport Systems: A Survey](https://arxiv.org/abs/2508.19239). Please cite it if you find it useful.
+> [!NOTE]
+> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2508.19239)!  
+> **Title:** *Model Context Protocols in Adaptive Transport Systems: A Survey*  
+> If you find this paper interesting, please consider citing our work. Thank you for your support!
 
 ```bibtex
-@misc{chhetri2025modelcontextprotocolsadaptive,
-      title={Model Context Protocols in Adaptive Transport Systems: A Survey}, 
-      author={Gaurab Chhetri and Shriyank Somvanshi and Md Monzurul Islam and Shamyo Brotee and Mahmuda Sultana Mimi and Dipti Koirala and Biplov Pandey and Subasish Das},
-      year={2025},
-      eprint={2508.19239},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2508.19239}, 
+@article{chhetri2025model,
+  title={Model Context Protocols in Adaptive Transport Systems: A Survey},
+  author={Chhetri, Gaurab and Somvanshi, Shriyank and Islam, Md Monzurul and Brotee, Shamyo and Mimi, Mahmuda Sultana and Koirala, Dipti and Pandey, Biplov and Das, Subasish},
+  journal={arXiv preprint arXiv:2508.19239},
+  year={2025}
 }
 ```
+
+Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
 
 ## Last Updated
 September 20, 2025 at 01:46:04 AM UTC
