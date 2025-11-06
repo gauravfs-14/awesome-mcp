@@ -74,6 +74,8 @@ November 6, 2025 at 01:58:48 AM UTC
 ## Tutorial
 
 ### Written Tutorials
+- [Architecture of MCP - Anthropic](https://modelcontextprotocol.io/docs/learn/architecture)
+- [MCP Specification - Anthropic](https://modelcontextprotocol.io/specification/2025-06-18)
 
 ### Video Tutorials
 
