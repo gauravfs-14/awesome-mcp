@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
 
 ## Last Updated
-December 3, 2025 at 02:01:34 AM UTC
+December 4, 2025 at 02:02:45 AM UTC
 
 
 ## Theorem
 
-## Papers (39)
+## Papers (40)
 - [Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](https://arxiv.org/abs/2506.10925)
 - [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)
 - [ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)
@@ -75,6 +75,7 @@ December 3, 2025 at 02:01:34 AM UTC
 - [PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://arxiv.org/abs/2512.02589)
 - [Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins](https://arxiv.org/abs/2512.02418)
 - [LeechHijack: Covert Computational Resource Exploitation in Intelligent Agent Systems](https://arxiv.org/abs/2512.02321)
+- [Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol](https://arxiv.org/abs/2512.03955)
 
 
 ## Library
