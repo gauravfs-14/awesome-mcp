@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
 
 ## Last Updated
-February 2, 2026 at 02:46:25 AM UTC
+February 3, 2026 at 02:42:55 AM UTC
 
 
 ## Theorem
 
-## Papers (53)
+## Papers (54)
 - [Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](https://arxiv.org/abs/2506.10925)
 - [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)
 - [ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)
@@ -89,6 +89,7 @@ February 2, 2026 at 02:46:25 AM UTC
 - [Faramesh: A Protocol-Agnostic Execution Control Plane for Autonomous Agent Systems](https://arxiv.org/abs/2601.17744)
 - [Breaking the Protocol: Security Analysis of the Model Context Protocol Specification and Prompt Injection Vulnerabilities in Tool-Integrated LLM Agents](https://arxiv.org/abs/2601.17549)
 - [OptAgent: an Agentic AI framework for Intelligent Building Operations](https://arxiv.org/abs/2601.20005)
+- [Secure Tool Manifest and Digital Signing Solution for Verifiable MCP and LLM Pipelines](https://arxiv.org/abs/2601.23132)
 
 
 ## Library
