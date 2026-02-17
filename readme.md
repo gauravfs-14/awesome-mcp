@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
 
 ## Last Updated
-February 16, 2026 at 02:45:59 AM UTC
+February 17, 2026 at 02:42:21 AM UTC
 
 
 ## Theorem
 
-## Papers (56)
+## Papers (59)
 - [Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](https://arxiv.org/abs/2506.10925)
 - [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)
 - [ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)
@@ -92,6 +92,9 @@ February 16, 2026 at 02:45:59 AM UTC
 - [Secure Tool Manifest and Digital Signing Solution for Verifiable MCP and LLM Pipelines](https://arxiv.org/abs/2601.23132)
 - [SoK: Trust-Authorization Mismatch in LLM Agent Interactions](https://arxiv.org/abs/2512.06914)
 - [Human Tool: An MCP-Style Framework for Human-Agent Collaboration](https://arxiv.org/abs/2602.12953)
+- [AgentRob: From Virtual Forum Agents to Hijacked Physical Robots](https://arxiv.org/abs/2602.13591)
+- [Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of the Model Context Protocol](https://arxiv.org/abs/2602.13320)
+- [An Agentic AI Control Plane for 6G Network Slice Orchestration, Monitoring, and Trading](https://arxiv.org/abs/2602.13227)
 
 
 ## Library
