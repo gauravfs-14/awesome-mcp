@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building AI agents, researching model-tool alignment, or experimenting with novel retrieval-augmented generation pipelines, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of MCP-enabled systems.
 
 ## Last Updated
-March 1, 2026 at 02:52:56 AM UTC
+March 2, 2026 at 02:40:45 AM UTC
 
 
 ## Theorem
 
-## Papers (65)
+## Papers (66)
 - [Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](https://arxiv.org/abs/2506.10925)
 - [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2506.02040)
 - [ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)
@@ -101,6 +101,7 @@ March 1, 2026 at 02:52:56 AM UTC
 - [AutoEDA: Enabling EDA Flow Automation through Microservice-Based LLM Agents](https://arxiv.org/abs/2508.01012)
 - [AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents](https://arxiv.org/abs/2602.20493)
 - [Agentic AI for Scalable and Robust Optical Systems Control](https://arxiv.org/abs/2602.20144)
+- [The Auton Agentic AI Framework](https://arxiv.org/abs/2602.23720)
 
 
 ## Library
