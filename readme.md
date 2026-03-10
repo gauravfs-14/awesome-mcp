@@ -108,6 +108,8 @@ March 10, 2026 at 02:35:16 AM UTC
 
 ## Library
 
+- [Roundtable](https://github.com/sinaneshat/roundtable-dashboard) - Multi-model AI brainstorming MCP server — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs. Remote endpoint: `https://mcp.roundtable.now/mcp`.
+
 ## Tutorial
 
 ### Written Tutorials
