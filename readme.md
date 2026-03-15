@@ -110,6 +110,8 @@ March 15, 2026 at 03:15:28 AM UTC
 
 ## Library
 
+- [WritBase](https://github.com/Writbase/writbase) - MCP-native task management for AI agent fleets. Multi-agent permissions, full provenance, inter-agent task delegation, and A2A protocol alignment.
+
 ## Tutorial
 
 ### Written Tutorials
