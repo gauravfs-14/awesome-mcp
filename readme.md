@@ -130,6 +130,7 @@ May 1, 2026 at 03:57:21 AM UTC
 
 ## Library
 
+- [Parse](https://github.com/Parsegl/parse-mcp) - AI brand visibility analytics MCP server. Look up how any brand surfaces in ChatGPT and Google AI Overviews via four tools (parse_search, parse_get_brand, parse_get_prompt, parse_get_stats). 577,000+ brands tracked. HTTP transport, no auth required. Live endpoint at https://mcp.parse.gl/mcp.
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management for AI agent fleets. Multi-agent permissions, full provenance, inter-agent task delegation, and A2A protocol alignment.
 - [Roundtable](https://github.com/sinaneshat/roundtable-dashboard) - Multi-model AI brainstorming MCP server — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs. Remote endpoint: `https://mcp.roundtable.now/mcp`.
 - [operant-mcp](https://github.com/operantlabs/operant-mcp) - Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment.
