@@ -187,6 +187,7 @@ September 9, 2026 at 04:10:46 AM UTC
 - [WritBase](https://github.com/Writbase/writbase) - MCP-native task management for AI agent fleets. Multi-agent permissions, full provenance, inter-agent task delegation, and A2A protocol alignment.
 - [Roundtable](https://github.com/sinaneshat/roundtable-dashboard) - Multi-model AI brainstorming MCP server — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs. Remote endpoint: `https://mcp.roundtable.now/mcp`.
 - [operant-mcp](https://github.com/operantlabs/operant-mcp) - Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for composing, editing, and assembling videos from editable plan.json timelines.
 
 ## Tutorial
 
